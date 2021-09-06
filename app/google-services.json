@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "192922513870",
+    "project_id": "mesajlasma-d58a1",
+    "storage_bucket": "mesajlasma-d58a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192922513870:android:2b587113438b7b7c833b9f",
+        "android_client_info": {
+          "package_name": "com.example.new_github_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192922513870-7b0rc7fvotm4tcbf5a8f75ettefk7l16.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.new_github_demo",
+            "certificate_hash": "3d0f27a8c81577545a6a66809a391cbffc2fe8b4"
+          }
+        },
+        {
+          "client_id": "192922513870-leub76kcga1ga995erov42sjvm23hjac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqaFVGvkkyroxB0p0JM-bOug2hgj6qb6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192922513870-leub76kcga1ga995erov42sjvm23hjac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
